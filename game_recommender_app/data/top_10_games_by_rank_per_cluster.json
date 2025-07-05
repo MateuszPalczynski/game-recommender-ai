@@ -1,0 +1,1843 @@
+{
+    "cluster_0": [
+        {
+            "Name": "Terraforming Mars",
+            "BGG Rank": 4,
+            "Rating Average": "8,43"
+        },
+        {
+            "Name": "The Castles of Burgundy",
+            "BGG Rank": 15,
+            "Rating Average": "8,13"
+        },
+        {
+            "Name": "A Feast for Odin",
+            "BGG Rank": 21,
+            "Rating Average": "8,20"
+        },
+        {
+            "Name": "Puerto Rico",
+            "BGG Rank": 28,
+            "Rating Average": "7,99"
+        },
+        {
+            "Name": "The 7th Continent",
+            "BGG Rank": 34,
+            "Rating Average": "8,15"
+        },
+        {
+            "Name": "Azul",
+            "BGG Rank": 50,
+            "Rating Average": "7,83"
+        },
+        {
+            "Name": "Eclipse",
+            "BGG Rank": 52,
+            "Rating Average": "7,89"
+        },
+        {
+            "Name": "The Voyages of Marco Polo",
+            "BGG Rank": 56,
+            "Rating Average": "7,87"
+        },
+        {
+            "Name": "Fields of Arle",
+            "BGG Rank": 60,
+            "Rating Average": "8,09"
+        },
+        {
+            "Name": "Five Tribes",
+            "BGG Rank": 66,
+            "Rating Average": "7,78"
+        }
+    ],
+    "cluster_1": [
+        {
+            "Name": "Spirit Island",
+            "BGG Rank": 13,
+            "Rating Average": "8,35"
+        },
+        {
+            "Name": "Wingspan",
+            "BGG Rank": 20,
+            "Rating Average": "8,11"
+        },
+        {
+            "Name": "Too Many Bones",
+            "BGG Rank": 48,
+            "Rating Average": "8,45"
+        },
+        {
+            "Name": "Race for the Galaxy",
+            "BGG Rank": 59,
+            "Rating Average": "7,76"
+        },
+        {
+            "Name": "Teotihuacan: City of Gods",
+            "BGG Rank": 62,
+            "Rating Average": "7,95"
+        },
+        {
+            "Name": "Clank!: A Deck-Building Adventure",
+            "BGG Rank": 63,
+            "Rating Average": "7,81"
+        },
+        {
+            "Name": "Roll for the Galaxy",
+            "BGG Rank": 94,
+            "Rating Average": "7,67"
+        },
+        {
+            "Name": "Trajan",
+            "BGG Rank": 95,
+            "Rating Average": "7,76"
+        },
+        {
+            "Name": "Welcome To...",
+            "BGG Rank": 126,
+            "Rating Average": "7,61"
+        },
+        {
+            "Name": "That's Pretty Clever!",
+            "BGG Rank": 127,
+            "Rating Average": "7,64"
+        }
+    ],
+    "cluster_2": [
+        {
+            "Name": "Orl\u00e9ans",
+            "BGG Rank": 25,
+            "Rating Average": "8,09"
+        },
+        {
+            "Name": "Mage Knight Board Game",
+            "BGG Rank": 26,
+            "Rating Average": "8,10"
+        },
+        {
+            "Name": "Clank! Legacy: Acquisitions Incorporated",
+            "BGG Rank": 53,
+            "Rating Average": "8,79"
+        },
+        {
+            "Name": "Aeon's End",
+            "BGG Rank": 70,
+            "Rating Average": "8,02"
+        },
+        {
+            "Name": "Dominion: Intrigue",
+            "BGG Rank": 85,
+            "Rating Average": "7,72"
+        },
+        {
+            "Name": "The Lord of the Rings: Journeys in Middle-Earth",
+            "BGG Rank": 88,
+            "Rating Average": "8,08"
+        },
+        {
+            "Name": "Dominion",
+            "BGG Rank": 98,
+            "Rating Average": "7,62"
+        },
+        {
+            "Name": "Clank! In! Space!: A Deck-Building Adventure",
+            "BGG Rank": 105,
+            "Rating Average": "7,86"
+        },
+        {
+            "Name": "Star Realms",
+            "BGG Rank": 115,
+            "Rating Average": "7,58"
+        },
+        {
+            "Name": "Aeon's End: War Eternal",
+            "BGG Rank": 132,
+            "Rating Average": "8,41"
+        }
+    ],
+    "cluster_3": [
+        {
+            "Name": "7 Wonders",
+            "BGG Rank": 61,
+            "Rating Average": "7,75"
+        },
+        {
+            "Name": "Lorenzo il Magnifico",
+            "BGG Rank": 96,
+            "Rating Average": "7,89"
+        },
+        {
+            "Name": "Vinhos Deluxe Edition",
+            "BGG Rank": 113,
+            "Rating Average": "8,21"
+        },
+        {
+            "Name": "Azul: Summer Pavilion",
+            "BGG Rank": 150,
+            "Rating Average": "7,83"
+        },
+        {
+            "Name": "Ticket to Ride: Nordic Countries",
+            "BGG Rank": 154,
+            "Rating Average": "7,64"
+        },
+        {
+            "Name": "Splendor",
+            "BGG Rank": 166,
+            "Rating Average": "7,45"
+        },
+        {
+            "Name": "Go",
+            "BGG Rank": 173,
+            "Rating Average": "7,64"
+        },
+        {
+            "Name": "Kanban: Driver's Edition",
+            "BGG Rank": 180,
+            "Rating Average": "7,84"
+        },
+        {
+            "Name": "The Princes of Florence",
+            "BGG Rank": 184,
+            "Rating Average": "7,53"
+        },
+        {
+            "Name": "Roll Player",
+            "BGG Rank": 195,
+            "Rating Average": "7,53"
+        }
+    ],
+    "cluster_4": [
+        {
+            "Name": "Letters from Whitechapel",
+            "BGG Rank": 266,
+            "Rating Average": "7,40"
+        },
+        {
+            "Name": "Dream Home",
+            "BGG Rank": 906,
+            "Rating Average": "6,92"
+        },
+        {
+            "Name": "Santiago de Cuba",
+            "BGG Rank": 995,
+            "Rating Average": "6,91"
+        },
+        {
+            "Name": "Outfoxed!",
+            "BGG Rank": 1054,
+            "Rating Average": "7,19"
+        },
+        {
+            "Name": "The Magic Labyrinth",
+            "BGG Rank": 1056,
+            "Rating Average": "6,83"
+        },
+        {
+            "Name": "Sleuth",
+            "BGG Rank": 1215,
+            "Rating Average": "6,91"
+        },
+        {
+            "Name": "Havana",
+            "BGG Rank": 1237,
+            "Rating Average": "6,85"
+        },
+        {
+            "Name": "Ch\u00e2teau Roquefort",
+            "BGG Rank": 1461,
+            "Rating Average": "6,85"
+        },
+        {
+            "Name": "Pyramid of Pengqueen",
+            "BGG Rank": 1593,
+            "Rating Average": "6,90"
+        },
+        {
+            "Name": "You're Bluffing!",
+            "BGG Rank": 1627,
+            "Rating Average": "6,58"
+        }
+    ],
+    "cluster_5": [
+        {
+            "Name": "Cartographers",
+            "BGG Rank": 117,
+            "Rating Average": "7,76"
+        },
+        {
+            "Name": "Captain Sonar",
+            "BGG Rank": 159,
+            "Rating Average": "7,57"
+        },
+        {
+            "Name": "Roads & Boats",
+            "BGG Rank": 401,
+            "Rating Average": "7,73"
+        },
+        {
+            "Name": "Railroad Ink: Deep Blue Edition",
+            "BGG Rank": 484,
+            "Rating Average": "7,28"
+        },
+        {
+            "Name": "Telestrations: 12 Player Party Pack",
+            "BGG Rank": 598,
+            "Rating Average": "7,76"
+        },
+        {
+            "Name": "A Fake Artist Goes to New York",
+            "BGG Rank": 656,
+            "Rating Average": "7,17"
+        },
+        {
+            "Name": "Treasure Island",
+            "BGG Rank": 662,
+            "Rating Average": "7,30"
+        },
+        {
+            "Name": "Pictomania",
+            "BGG Rank": 726,
+            "Rating Average": "7,28"
+        },
+        {
+            "Name": "Railroad Ink: Blazing Red Edition",
+            "BGG Rank": 750,
+            "Rating Average": "7,19"
+        },
+        {
+            "Name": "Loony Quest",
+            "BGG Rank": 849,
+            "Rating Average": "6,94"
+        }
+    ],
+    "cluster_6": [
+        {
+            "Name": "Mombasa",
+            "BGG Rank": 86,
+            "Rating Average": "7,88"
+        },
+        {
+            "Name": "Russian Railroads",
+            "BGG Rank": 91,
+            "Rating Average": "7,77"
+        },
+        {
+            "Name": "Ticket to Ride: Europe",
+            "BGG Rank": 121,
+            "Rating Average": "7,55"
+        },
+        {
+            "Name": "Rajas of the Ganges",
+            "BGG Rank": 160,
+            "Rating Average": "7,70"
+        },
+        {
+            "Name": "Ticket to Ride",
+            "BGG Rank": 174,
+            "Rating Average": "7,42"
+        },
+        {
+            "Name": "Antiquity",
+            "BGG Rank": 243,
+            "Rating Average": "7,88"
+        },
+        {
+            "Name": "Western Legends",
+            "BGG Rank": 245,
+            "Rating Average": "7,66"
+        },
+        {
+            "Name": "Telestrations",
+            "BGG Rank": 262,
+            "Rating Average": "7,40"
+        },
+        {
+            "Name": "Takenoko",
+            "BGG Rank": 281,
+            "Rating Average": "7,27"
+        },
+        {
+            "Name": "Millennium Blades",
+            "BGG Rank": 354,
+            "Rating Average": "7,72"
+        }
+    ],
+    "cluster_7": [
+        {
+            "Name": "Nemesis",
+            "BGG Rank": 24,
+            "Rating Average": "8,40"
+        },
+        {
+            "Name": "Battlestar Galactica: The Board Game",
+            "BGG Rank": 81,
+            "Rating Average": "7,74"
+        },
+        {
+            "Name": "The Resistance: Avalon",
+            "BGG Rank": 131,
+            "Rating Average": "7,58"
+        },
+        {
+            "Name": "Xia: Legends of a Drift System",
+            "BGG Rank": 147,
+            "Rating Average": "7,86"
+        },
+        {
+            "Name": "Carcassonne",
+            "BGG Rank": 178,
+            "Rating Average": "7,42"
+        },
+        {
+            "Name": "Secret Hitler",
+            "BGG Rank": 186,
+            "Rating Average": "7,57"
+        },
+        {
+            "Name": "Deception: Murder in Hong Kong",
+            "BGG Rank": 193,
+            "Rating Average": "7,50"
+        },
+        {
+            "Name": "Dixit: Odyssey",
+            "BGG Rank": 215,
+            "Rating Average": "7,45"
+        },
+        {
+            "Name": "KLASK",
+            "BGG Rank": 261,
+            "Rating Average": "7,65"
+        },
+        {
+            "Name": "The Resistance",
+            "BGG Rank": 272,
+            "Rating Average": "7,28"
+        }
+    ],
+    "cluster_8": [
+        {
+            "Name": "Twilight Imperium: Fourth Edition",
+            "BGG Rank": 5,
+            "Rating Average": "8,70"
+        },
+        {
+            "Name": "Star Wars: Rebellion",
+            "BGG Rank": 9,
+            "Rating Average": "8,42"
+        },
+        {
+            "Name": "Twilight Imperium: Third Edition",
+            "BGG Rank": 80,
+            "Rating Average": "7,84"
+        },
+        {
+            "Name": "Warhammer 40,000: Conquest",
+            "BGG Rank": 807,
+            "Rating Average": "7,37"
+        },
+        {
+            "Name": "Breakout: Normandy",
+            "BGG Rank": 1382,
+            "Rating Average": "7,67"
+        },
+        {
+            "Name": "Richard III: The Wars of the Roses",
+            "BGG Rank": 1793,
+            "Rating Average": "7,41"
+        },
+        {
+            "Name": "Storm over Arnhem",
+            "BGG Rank": 2106,
+            "Rating Average": "7,20"
+        },
+        {
+            "Name": "Turning Point: Stalingrad",
+            "BGG Rank": 2374,
+            "Rating Average": "7,25"
+        },
+        {
+            "Name": "After the Flood",
+            "BGG Rank": 2392,
+            "Rating Average": "6,88"
+        },
+        {
+            "Name": "Storm Over Stalingrad",
+            "BGG Rank": 2683,
+            "Rating Average": "7,12"
+        }
+    ],
+    "cluster_9": [
+        {
+            "Name": "Monikers",
+            "BGG Rank": 343,
+            "Rating Average": "7,79"
+        },
+        {
+            "Name": "Monty Python Fluxx",
+            "BGG Rank": 3229,
+            "Rating Average": "6,06"
+        },
+        {
+            "Name": "Cranium WOW",
+            "BGG Rank": 4674,
+            "Rating Average": "6,14"
+        },
+        {
+            "Name": "Muse: Awakenings",
+            "BGG Rank": 5379,
+            "Rating Average": "7,06"
+        },
+        {
+            "Name": "Cranium Turbo Edition",
+            "BGG Rank": 6571,
+            "Rating Average": "6,09"
+        },
+        {
+            "Name": "HINT",
+            "BGG Rank": 7065,
+            "Rating Average": "6,72"
+        },
+        {
+            "Name": "Dixit Jinx",
+            "BGG Rank": 7091,
+            "Rating Average": "5,74"
+        },
+        {
+            "Name": "Cranium",
+            "BGG Rank": 7974,
+            "Rating Average": "5,68"
+        },
+        {
+            "Name": "Encore",
+            "BGG Rank": 9050,
+            "Rating Average": "5,87"
+        },
+        {
+            "Name": "Pick 'N' Choose",
+            "BGG Rank": 9060,
+            "Rating Average": "6,37"
+        }
+    ],
+    "cluster_10": [
+        {
+            "Name": "Paths of Glory",
+            "BGG Rank": 156,
+            "Rating Average": "8,06"
+        },
+        {
+            "Name": "Combat Commander: Europe",
+            "BGG Rank": 157,
+            "Rating Average": "7,94"
+        },
+        {
+            "Name": "Hannibal: Rome vs. Carthage",
+            "BGG Rank": 239,
+            "Rating Average": "7,80"
+        },
+        {
+            "Name": "Here I Stand",
+            "BGG Rank": 282,
+            "Rating Average": "7,91"
+        },
+        {
+            "Name": "Space Hulk (Third Edition)",
+            "BGG Rank": 314,
+            "Rating Average": "7,53"
+        },
+        {
+            "Name": "Nippon",
+            "BGG Rank": 317,
+            "Rating Average": "7,69"
+        },
+        {
+            "Name": "Blood Bowl: Living Rulebook",
+            "BGG Rank": 332,
+            "Rating Average": "7,85"
+        },
+        {
+            "Name": "Blood Bowl (Third Edition)",
+            "BGG Rank": 378,
+            "Rating Average": "7,54"
+        },
+        {
+            "Name": "London",
+            "BGG Rank": 390,
+            "Rating Average": "7,36"
+        },
+        {
+            "Name": "Pax Porfiriana",
+            "BGG Rank": 469,
+            "Rating Average": "7,68"
+        }
+    ],
+    "cluster_11": [
+        {
+            "Name": "L.L.A.M.A.",
+            "BGG Rank": 1730,
+            "Rating Average": "6,51"
+        },
+        {
+            "Name": "Village Green",
+            "BGG Rank": 3807,
+            "Rating Average": "7,17"
+        },
+        {
+            "Name": "L.A.M.A. Party Edition",
+            "BGG Rank": 5486,
+            "Rating Average": "7,15"
+        },
+        {
+            "Name": "Dollars to Donuts",
+            "BGG Rank": 9654,
+            "Rating Average": "7,51"
+        },
+        {
+            "Name": "Mad Magazine Card Game",
+            "BGG Rank": 9981,
+            "Rating Average": "5,85"
+        },
+        {
+            "Name": "Grandpa Beck's Nuts about Mutts",
+            "BGG Rank": 13184,
+            "Rating Average": "6,55"
+        },
+        {
+            "Name": "Panic Diner",
+            "BGG Rank": 14464,
+            "Rating Average": "6,28"
+        },
+        {
+            "Name": "Buggo",
+            "BGG Rank": 15442,
+            "Rating Average": "5,76"
+        },
+        {
+            "Name": "Frog Juice",
+            "BGG Rank": 18058,
+            "Rating Average": "5,52"
+        },
+        {
+            "Name": "UNO",
+            "BGG Rank": 20229,
+            "Rating Average": "5,40"
+        }
+    ],
+    "cluster_12": [
+        {
+            "Name": "T.I.M.E Stories",
+            "BGG Rank": 145,
+            "Rating Average": "7,55"
+        },
+        {
+            "Name": "Lost Ruins of Arnak",
+            "BGG Rank": 244,
+            "Rating Average": "8,25"
+        },
+        {
+            "Name": "Ghost Stories",
+            "BGG Rank": 275,
+            "Rating Average": "7,32"
+        },
+        {
+            "Name": "The Grizzled",
+            "BGG Rank": 404,
+            "Rating Average": "7,20"
+        },
+        {
+            "Name": "Dawn of the Zeds (Third Edition)",
+            "BGG Rank": 575,
+            "Rating Average": "8,22"
+        },
+        {
+            "Name": "Onirim (Second Edition)",
+            "BGG Rank": 582,
+            "Rating Average": "7,09"
+        },
+        {
+            "Name": "Space Hulk: Death Angel - The Card Game",
+            "BGG Rank": 613,
+            "Rating Average": "6,99"
+        },
+        {
+            "Name": "One Deck Dungeon",
+            "BGG Rank": 636,
+            "Rating Average": "7,07"
+        },
+        {
+            "Name": "Diamant",
+            "BGG Rank": 719,
+            "Rating Average": "6,82"
+        },
+        {
+            "Name": "5-Minute Dungeon",
+            "BGG Rank": 753,
+            "Rating Average": "7,05"
+        }
+    ],
+    "cluster_13": [
+        {
+            "Name": "Root",
+            "BGG Rank": 27,
+            "Rating Average": "8,10"
+        },
+        {
+            "Name": "Kemet",
+            "BGG Rank": 103,
+            "Rating Average": "7,72"
+        },
+        {
+            "Name": "Cosmic Encounter",
+            "BGG Rank": 144,
+            "Rating Average": "7,54"
+        },
+        {
+            "Name": "Santorini",
+            "BGG Rank": 167,
+            "Rating Average": "7,48"
+        },
+        {
+            "Name": "Shogun",
+            "BGG Rank": 196,
+            "Rating Average": "7,54"
+        },
+        {
+            "Name": "Die Macher",
+            "BGG Rank": 289,
+            "Rating Average": "7,63"
+        },
+        {
+            "Name": "Dune",
+            "BGG Rank": 310,
+            "Rating Average": "7,62"
+        },
+        {
+            "Name": "Amerigo",
+            "BGG Rank": 362,
+            "Rating Average": "7,47"
+        },
+        {
+            "Name": "Lord of the Rings: The Confrontation",
+            "BGG Rank": 366,
+            "Rating Average": "7,47"
+        },
+        {
+            "Name": "Deus",
+            "BGG Rank": 388,
+            "Rating Average": "7,32"
+        }
+    ],
+    "cluster_14": [
+        {
+            "Name": "Battle Line",
+            "BGG Rank": 225,
+            "Rating Average": "7,42"
+        },
+        {
+            "Name": "Innovation",
+            "BGG Rank": 334,
+            "Rating Average": "7,25"
+        },
+        {
+            "Name": "Bohnanza",
+            "BGG Rank": 451,
+            "Rating Average": "7,04"
+        },
+        {
+            "Name": "Honsh\u016b",
+            "BGG Rank": 892,
+            "Rating Average": "6,99"
+        },
+        {
+            "Name": "Circle the Wagons",
+            "BGG Rank": 1141,
+            "Rating Average": "7,19"
+        },
+        {
+            "Name": "Orchard: A 9 card solitaire game",
+            "BGG Rank": 1371,
+            "Rating Average": "7,51"
+        },
+        {
+            "Name": "Rummikub",
+            "BGG Rank": 1630,
+            "Rating Average": "6,38"
+        },
+        {
+            "Name": "Inhabit the Earth",
+            "BGG Rank": 1944,
+            "Rating Average": "7,00"
+        },
+        {
+            "Name": "Tybor the Builder",
+            "BGG Rank": 2002,
+            "Rating Average": "7,01"
+        },
+        {
+            "Name": "Pinochle",
+            "BGG Rank": 2446,
+            "Rating Average": "6,85"
+        }
+    ],
+    "cluster_15": [
+        {
+            "Name": "Blood Bowl (2016 Edition)",
+            "BGG Rank": 471,
+            "Rating Average": "8,07"
+        },
+        {
+            "Name": "Advanced Squad Leader: Starter Kit #1",
+            "BGG Rank": 559,
+            "Rating Average": "7,82"
+        },
+        {
+            "Name": "D-Day at Omaha Beach",
+            "BGG Rank": 599,
+            "Rating Average": "8,26"
+        },
+        {
+            "Name": "Napoleon's Triumph",
+            "BGG Rank": 632,
+            "Rating Average": "7,97"
+        },
+        {
+            "Name": "Squad Leader",
+            "BGG Rank": 644,
+            "Rating Average": "7,51"
+        },
+        {
+            "Name": "Whitehall Mystery",
+            "BGG Rank": 670,
+            "Rating Average": "7,59"
+        },
+        {
+            "Name": "Fleet: The Dice Game",
+            "BGG Rank": 837,
+            "Rating Average": "7,75"
+        },
+        {
+            "Name": "Ambush!",
+            "BGG Rank": 898,
+            "Rating Average": "7,45"
+        },
+        {
+            "Name": "No Retreat! The Russian Front",
+            "BGG Rank": 901,
+            "Rating Average": "7,78"
+        },
+        {
+            "Name": "The Hunters: German U-Boats at War, 1939-43",
+            "BGG Rank": 1052,
+            "Rating Average": "7,78"
+        }
+    ],
+    "cluster_16": [
+        {
+            "Name": "Merchants of Amsterdam",
+            "BGG Rank": 2069,
+            "Rating Average": "6,71"
+        },
+        {
+            "Name": "Going, Going, GONE!",
+            "BGG Rank": 3538,
+            "Rating Average": "6,20"
+        },
+        {
+            "Name": "Piratoons",
+            "BGG Rank": 4997,
+            "Rating Average": "6,42"
+        }
+    ],
+    "cluster_17": [
+        {
+            "Name": "War of the Ring: Second Edition",
+            "BGG Rank": 12,
+            "Rating Average": "8,49"
+        },
+        {
+            "Name": "Star Wars: Imperial Assault",
+            "BGG Rank": 44,
+            "Rating Average": "8,02"
+        },
+        {
+            "Name": "Architects of the West Kingdom",
+            "BGG Rank": 78,
+            "Rating Average": "7,83"
+        },
+        {
+            "Name": "Star Wars: X-Wing Miniatures Game",
+            "BGG Rank": 109,
+            "Rating Average": "7,69"
+        },
+        {
+            "Name": "Legendary Encounters: An Alien Deck Building Game",
+            "BGG Rank": 112,
+            "Rating Average": "7,79"
+        },
+        {
+            "Name": "Descent: Journeys in the Dark (Second Edition)",
+            "BGG Rank": 116,
+            "Rating Average": "7,69"
+        },
+        {
+            "Name": "Memoir '44",
+            "BGG Rank": 140,
+            "Rating Average": "7,56"
+        },
+        {
+            "Name": "Commands & Colors: Ancients",
+            "BGG Rank": 143,
+            "Rating Average": "7,78"
+        },
+        {
+            "Name": "1960: The Making of the President",
+            "BGG Rank": 204,
+            "Rating Average": "7,61"
+        },
+        {
+            "Name": "Lords of Hellas",
+            "BGG Rank": 219,
+            "Rating Average": "7,85"
+        }
+    ],
+    "cluster_18": [
+        {
+            "Name": "Dune",
+            "BGG Rank": 285,
+            "Rating Average": "8,16"
+        },
+        {
+            "Name": "Spartacus: A Game of Blood and Treachery",
+            "BGG Rank": 365,
+            "Rating Average": "7,46"
+        },
+        {
+            "Name": "Sheriff of Nottingham",
+            "BGG Rank": 367,
+            "Rating Average": "7,14"
+        },
+        {
+            "Name": "The King's Dilemma",
+            "BGG Rank": 564,
+            "Rating Average": "8,09"
+        },
+        {
+            "Name": "Genoa",
+            "BGG Rank": 697,
+            "Rating Average": "7,07"
+        },
+        {
+            "Name": "Santiago",
+            "BGG Rank": 699,
+            "Rating Average": "7,12"
+        },
+        {
+            "Name": "Power Struggle",
+            "BGG Rank": 1260,
+            "Rating Average": "6,99"
+        },
+        {
+            "Name": "GoodCritters",
+            "BGG Rank": 2121,
+            "Rating Average": "7,13"
+        },
+        {
+            "Name": "Intrigue",
+            "BGG Rank": 2291,
+            "Rating Average": "6,37"
+        },
+        {
+            "Name": "Tiefe Taschen",
+            "BGG Rank": 2808,
+            "Rating Average": "7,23"
+        }
+    ],
+    "cluster_19": [
+        {
+            "Name": "Bruges",
+            "BGG Rank": 263,
+            "Rating Average": "7,43"
+        },
+        {
+            "Name": "G\u00f9g\u014dng",
+            "BGG Rank": 315,
+            "Rating Average": "7,53"
+        },
+        {
+            "Name": "Quadropolis",
+            "BGG Rank": 350,
+            "Rating Average": "7,29"
+        },
+        {
+            "Name": "Nusfjord",
+            "BGG Rank": 364,
+            "Rating Average": "7,62"
+        },
+        {
+            "Name": "Schotten Totten",
+            "BGG Rank": 394,
+            "Rating Average": "7,31"
+        },
+        {
+            "Name": "The Downfall of Pompeii",
+            "BGG Rank": 544,
+            "Rating Average": "7,13"
+        },
+        {
+            "Name": "Reef",
+            "BGG Rank": 606,
+            "Rating Average": "7,10"
+        },
+        {
+            "Name": "Caverna: Cave vs Cave",
+            "BGG Rank": 607,
+            "Rating Average": "7,19"
+        },
+        {
+            "Name": "Cribbage",
+            "BGG Rank": 614,
+            "Rating Average": "7,05"
+        },
+        {
+            "Name": "Cooper Island",
+            "BGG Rank": 653,
+            "Rating Average": "7,72"
+        }
+    ],
+    "cluster_20": [
+        {
+            "Name": "Mechs vs. Minions",
+            "BGG Rank": 42,
+            "Rating Average": "8,05"
+        },
+        {
+            "Name": "Colt Express",
+            "BGG Rank": 391,
+            "Rating Average": "7,12"
+        },
+        {
+            "Name": "RoboRally",
+            "BGG Rank": 440,
+            "Rating Average": "7,08"
+        },
+        {
+            "Name": "Lords of Xidit",
+            "BGG Rank": 648,
+            "Rating Average": "7,14"
+        },
+        {
+            "Name": "BattleCON: War of Indines",
+            "BGG Rank": 803,
+            "Rating Average": "7,72"
+        },
+        {
+            "Name": "Wings of War: Famous Aces",
+            "BGG Rank": 1065,
+            "Rating Average": "6,86"
+        },
+        {
+            "Name": "Room 25",
+            "BGG Rank": 1106,
+            "Rating Average": "6,74"
+        },
+        {
+            "Name": "Robo Rally",
+            "BGG Rank": 1244,
+            "Rating Average": "7,07"
+        },
+        {
+            "Name": "Space Cadets",
+            "BGG Rank": 1608,
+            "Rating Average": "6,59"
+        },
+        {
+            "Name": "Tiny Epic Mechs",
+            "BGG Rank": 1831,
+            "Rating Average": "6,94"
+        }
+    ],
+    "cluster_21": [
+        {
+            "Name": "Ghost Blitz",
+            "BGG Rank": 1105,
+            "Rating Average": "6,71"
+        },
+        {
+            "Name": "Spot it!",
+            "BGG Rank": 1113,
+            "Rating Average": "6,63"
+        },
+        {
+            "Name": "Jungle Speed",
+            "BGG Rank": 1379,
+            "Rating Average": "6,50"
+        },
+        {
+            "Name": "SET",
+            "BGG Rank": 1437,
+            "Rating Average": "6,48"
+        },
+        {
+            "Name": "Anomia",
+            "BGG Rank": 1757,
+            "Rating Average": "6,61"
+        },
+        {
+            "Name": "DropMix",
+            "BGG Rank": 2232,
+            "Rating Average": "6,87"
+        },
+        {
+            "Name": "Dutch Blitz: Blue Expansion Pack",
+            "BGG Rank": 4329,
+            "Rating Average": "7,16"
+        },
+        {
+            "Name": "Situation 4",
+            "BGG Rank": 7697,
+            "Rating Average": "6,52"
+        },
+        {
+            "Name": "Situation 7",
+            "BGG Rank": 13862,
+            "Rating Average": "6,06"
+        },
+        {
+            "Name": "The Only Word: the Party Word Game",
+            "BGG Rank": 14522,
+            "Rating Average": "6,50"
+        }
+    ],
+    "cluster_22": [
+        {
+            "Name": "Onitama",
+            "BGG Rank": 248,
+            "Rating Average": "7,40"
+        },
+        {
+            "Name": "Chess",
+            "BGG Rank": 435,
+            "Rating Average": "7,13"
+        },
+        {
+            "Name": "The Duke",
+            "BGG Rank": 562,
+            "Rating Average": "7,38"
+        },
+        {
+            "Name": "Shogi",
+            "BGG Rank": 1291,
+            "Rating Average": "7,37"
+        },
+        {
+            "Name": "Chess 960",
+            "BGG Rank": 6265,
+            "Rating Average": "7,55"
+        },
+        {
+            "Name": "Sea of Plunder",
+            "BGG Rank": 14371,
+            "Rating Average": "8,49"
+        },
+        {
+            "Name": "Bobail",
+            "BGG Rank": 15355,
+            "Rating Average": "5,90"
+        },
+        {
+            "Name": "Checkers",
+            "BGG Rank": 20314,
+            "Rating Average": "4,88"
+        }
+    ],
+    "cluster_23": [
+        {
+            "Name": "Survive: Escape from Atlantis!",
+            "BGG Rank": 287,
+            "Rating Average": "7,31"
+        },
+        {
+            "Name": "Forbidden Desert",
+            "BGG Rank": 380,
+            "Rating Average": "7,14"
+        },
+        {
+            "Name": "TZAAR",
+            "BGG Rank": 428,
+            "Rating Average": "7,66"
+        },
+        {
+            "Name": "DVONN",
+            "BGG Rank": 473,
+            "Rating Average": "7,44"
+        },
+        {
+            "Name": "Z\u00c8RTZ",
+            "BGG Rank": 655,
+            "Rating Average": "7,29"
+        },
+        {
+            "Name": "Forbidden Island",
+            "BGG Rank": 720,
+            "Rating Average": "6,79"
+        },
+        {
+            "Name": "Jaws",
+            "BGG Rank": 826,
+            "Rating Average": "7,32"
+        },
+        {
+            "Name": "Hey, That's My Fish!",
+            "BGG Rank": 856,
+            "Rating Average": "6,70"
+        },
+        {
+            "Name": "K\u00f6nig von Siam",
+            "BGG Rank": 1352,
+            "Rating Average": "6,92"
+        },
+        {
+            "Name": "The King Is Dead",
+            "BGG Rank": 1408,
+            "Rating Average": "7,16"
+        }
+    ],
+    "cluster_24": [
+        {
+            "Name": "Modern Art",
+            "BGG Rank": 221,
+            "Rating Average": "7,40"
+        }
+    ],
+    "cluster_25": [
+        {
+            "Name": "Through the Ages: A New Story of Civilization",
+            "BGG Rank": 7,
+            "Rating Average": "8,43"
+        },
+        {
+            "Name": "Concordia",
+            "BGG Rank": 18,
+            "Rating Average": "8,12"
+        },
+        {
+            "Name": "Through the Ages: A Story of Civilization",
+            "BGG Rank": 49,
+            "Rating Average": "7,93"
+        },
+        {
+            "Name": "Suburbia",
+            "BGG Rank": 148,
+            "Rating Average": "7,52"
+        },
+        {
+            "Name": "Concordia Venus",
+            "BGG Rank": 240,
+            "Rating Average": "8,36"
+        },
+        {
+            "Name": "Vikings",
+            "BGG Rank": 433,
+            "Rating Average": "7,25"
+        },
+        {
+            "Name": "Senators",
+            "BGG Rank": 3494,
+            "Rating Average": "7,02"
+        },
+        {
+            "Name": "Dreaming Spires",
+            "BGG Rank": 8056,
+            "Rating Average": "6,37"
+        },
+        {
+            "Name": "Das Kollier",
+            "BGG Rank": 17069,
+            "Rating Average": "5,49"
+        }
+    ],
+    "cluster_26": [
+        {
+            "Name": "Lisboa",
+            "BGG Rank": 69,
+            "Rating Average": "8,18"
+        },
+        {
+            "Name": "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",
+            "BGG Rank": 97,
+            "Rating Average": "7,73"
+        },
+        {
+            "Name": "Champions of Midgard",
+            "BGG Rank": 101,
+            "Rating Average": "7,77"
+        },
+        {
+            "Name": "Detective: A Modern Crime Board Game",
+            "BGG Rank": 152,
+            "Rating Average": "7,89"
+        },
+        {
+            "Name": "Star Realms: Colony Wars",
+            "BGG Rank": 165,
+            "Rating Average": "7,87"
+        },
+        {
+            "Name": "Tichu",
+            "BGG Rank": 172,
+            "Rating Average": "7,58"
+        },
+        {
+            "Name": "Tyrants of the Underdark",
+            "BGG Rank": 194,
+            "Rating Average": "7,89"
+        },
+        {
+            "Name": "Dungeon Petz",
+            "BGG Rank": 209,
+            "Rating Average": "7,47"
+        },
+        {
+            "Name": "Dominion (Second Edition)",
+            "BGG Rank": 229,
+            "Rating Average": "7,93"
+        },
+        {
+            "Name": "Indonesia",
+            "BGG Rank": 235,
+            "Rating Average": "7,85"
+        }
+    ],
+    "cluster_27": [
+        {
+            "Name": "Pandemic Legacy: Season 1",
+            "BGG Rank": 2,
+            "Rating Average": "8,61"
+        },
+        {
+            "Name": "Mansions of Madness: Second Edition",
+            "BGG Rank": 33,
+            "Rating Average": "8,06"
+        },
+        {
+            "Name": "Pandemic Legacy: Season 2",
+            "BGG Rank": 35,
+            "Rating Average": "8,15"
+        },
+        {
+            "Name": "Crokinole",
+            "BGG Rank": 65,
+            "Rating Average": "7,91"
+        },
+        {
+            "Name": "Eldritch Horror",
+            "BGG Rank": 82,
+            "Rating Average": "7,81"
+        },
+        {
+            "Name": "Pandemic",
+            "BGG Rank": 99,
+            "Rating Average": "7,61"
+        },
+        {
+            "Name": "Endeavor: Age of Sail",
+            "BGG Rank": 114,
+            "Rating Average": "8,02"
+        },
+        {
+            "Name": "Dead of Winter: The Long Night",
+            "BGG Rank": 224,
+            "Rating Average": "7,65"
+        },
+        {
+            "Name": "Merchants & Marauders",
+            "BGG Rank": 270,
+            "Rating Average": "7,41"
+        },
+        {
+            "Name": "Cryptid",
+            "BGG Rank": 271,
+            "Rating Average": "7,52"
+        }
+    ],
+    "cluster_28": [
+        {
+            "Name": "Viticulture Essential Edition",
+            "BGG Rank": 23,
+            "Rating Average": "8,08"
+        },
+        {
+            "Name": "Paladins of the West Kingdom",
+            "BGG Rank": 72,
+            "Rating Average": "8,07"
+        },
+        {
+            "Name": "Keyflower",
+            "BGG Rank": 73,
+            "Rating Average": "7,80"
+        },
+        {
+            "Name": "Troyes",
+            "BGG Rank": 83,
+            "Rating Average": "7,76"
+        },
+        {
+            "Name": "Raiders of the North Sea",
+            "BGG Rank": 90,
+            "Rating Average": "7,79"
+        },
+        {
+            "Name": "Yokohama",
+            "BGG Rank": 104,
+            "Rating Average": "7,85"
+        },
+        {
+            "Name": "Ora et Labora",
+            "BGG Rank": 141,
+            "Rating Average": "7,71"
+        },
+        {
+            "Name": "Village",
+            "BGG Rank": 155,
+            "Rating Average": "7,53"
+        },
+        {
+            "Name": "Age of Empires III: The Age of Discovery",
+            "BGG Rank": 217,
+            "Rating Average": "7,54"
+        },
+        {
+            "Name": "The Manhattan Project: Energy Empire",
+            "BGG Rank": 232,
+            "Rating Average": "7,79"
+        }
+    ],
+    "cluster_29": [
+        {
+            "Name": "Arkham Horror: The Card Game",
+            "BGG Rank": 22,
+            "Rating Average": "8,17"
+        },
+        {
+            "Name": "Blood Rage",
+            "BGG Rank": 32,
+            "Rating Average": "8,00"
+        },
+        {
+            "Name": "Kingdom Death: Monster",
+            "BGG Rank": 38,
+            "Rating Average": "8,66"
+        },
+        {
+            "Name": "Marvel Champions: The Card Game",
+            "BGG Rank": 51,
+            "Rating Average": "8,20"
+        },
+        {
+            "Name": "Android: Netrunner",
+            "BGG Rank": 54,
+            "Rating Average": "7,87"
+        },
+        {
+            "Name": "Pandemic: Iberia",
+            "BGG Rank": 100,
+            "Rating Average": "7,92"
+        },
+        {
+            "Name": "War of the Ring",
+            "BGG Rank": 124,
+            "Rating Average": "7,77"
+        },
+        {
+            "Name": "Chaos in the Old World",
+            "BGG Rank": 125,
+            "Rating Average": "7,68"
+        },
+        {
+            "Name": "The Lord of the Rings: The Card Game",
+            "BGG Rank": 129,
+            "Rating Average": "7,65"
+        },
+        {
+            "Name": "Chronicles of Crime",
+            "BGG Rank": 142,
+            "Rating Average": "7,80"
+        }
+    ],
+    "cluster_30": [
+        {
+            "Name": "Cthulhu: Death May Die",
+            "BGG Rank": 187,
+            "Rating Average": "8,16"
+        },
+        {
+            "Name": "Exit: The Game - The Abandoned Cabin",
+            "BGG Rank": 228,
+            "Rating Average": "7,53"
+        },
+        {
+            "Name": "Star Wars: Outer Rim",
+            "BGG Rank": 265,
+            "Rating Average": "7,74"
+        },
+        {
+            "Name": "Shadows of Brimstone: City of the Ancients",
+            "BGG Rank": 379,
+            "Rating Average": "7,97"
+        },
+        {
+            "Name": "Dice Throne: Season Two - Battle Chest",
+            "BGG Rank": 398,
+            "Rating Average": "8,19"
+        },
+        {
+            "Name": "Stuffed Fables",
+            "BGG Rank": 420,
+            "Rating Average": "7,57"
+        },
+        {
+            "Name": "Exit: The Game - Dead Man on the Orient Express",
+            "BGG Rank": 437,
+            "Rating Average": "7,71"
+        },
+        {
+            "Name": "Shadows of Brimstone: Swamps of Death",
+            "BGG Rank": 513,
+            "Rating Average": "8,04"
+        },
+        {
+            "Name": "Dice Throne: Season One",
+            "BGG Rank": 522,
+            "Rating Average": "7,65"
+        },
+        {
+            "Name": "Defenders of the Realm",
+            "BGG Rank": 526,
+            "Rating Average": "7,30"
+        }
+    ],
+    "cluster_31": [
+        {
+            "Name": "Scythe",
+            "BGG Rank": 14,
+            "Rating Average": "8,24"
+        },
+        {
+            "Name": "Maracaibo",
+            "BGG Rank": 37,
+            "Rating Average": "8,29"
+        },
+        {
+            "Name": "Robinson Crusoe: Adventures on the Cursed Island",
+            "BGG Rank": 55,
+            "Rating Average": "7,84"
+        },
+        {
+            "Name": "Tainted Grail: The Fall of Avalon",
+            "BGG Rank": 76,
+            "Rating Average": "8,41"
+        },
+        {
+            "Name": "Dead of Winter: A Crossroads Game",
+            "BGG Rank": 122,
+            "Rating Average": "7,57"
+        },
+        {
+            "Name": "Near and Far",
+            "BGG Rank": 153,
+            "Rating Average": "7,81"
+        },
+        {
+            "Name": "Above and Below",
+            "BGG Rank": 253,
+            "Rating Average": "7,43"
+        },
+        {
+            "Name": "Tales of the Arabian Nights",
+            "BGG Rank": 432,
+            "Rating Average": "7,20"
+        },
+        {
+            "Name": "Forgotten Waters",
+            "BGG Rank": 491,
+            "Rating Average": "8,22"
+        },
+        {
+            "Name": "Legacy of Dragonholt",
+            "BGG Rank": 972,
+            "Rating Average": "7,29"
+        }
+    ],
+    "cluster_32": [
+        {
+            "Name": "Brass: Birmingham",
+            "BGG Rank": 3,
+            "Rating Average": "8,66"
+        },
+        {
+            "Name": "Gaia Project",
+            "BGG Rank": 8,
+            "Rating Average": "8,49"
+        },
+        {
+            "Name": "Great Western Trail",
+            "BGG Rank": 11,
+            "Rating Average": "8,30"
+        },
+        {
+            "Name": "Terra Mystica",
+            "BGG Rank": 16,
+            "Rating Average": "8,14"
+        },
+        {
+            "Name": "Brass: Lancashire",
+            "BGG Rank": 19,
+            "Rating Average": "8,17"
+        },
+        {
+            "Name": "Food Chain Magnate",
+            "BGG Rank": 29,
+            "Rating Average": "8,14"
+        },
+        {
+            "Name": "Caverna: The Cave Farmers",
+            "BGG Rank": 30,
+            "Rating Average": "8,02"
+        },
+        {
+            "Name": "Agricola",
+            "BGG Rank": 31,
+            "Rating Average": "7,94"
+        },
+        {
+            "Name": "Everdell",
+            "BGG Rank": 36,
+            "Rating Average": "8,08"
+        },
+        {
+            "Name": "Power Grid",
+            "BGG Rank": 39,
+            "Rating Average": "7,86"
+        }
+    ],
+    "cluster_33": [
+        {
+            "Name": "Ra",
+            "BGG Rank": 177,
+            "Rating Average": "7,47"
+        },
+        {
+            "Name": "No Thanks!",
+            "BGG Rank": 448,
+            "Rating Average": "7,05"
+        },
+        {
+            "Name": "The Estates",
+            "BGG Rank": 674,
+            "Rating Average": "7,49"
+        },
+        {
+            "Name": "Dream Factory",
+            "BGG Rank": 748,
+            "Rating Average": "7,05"
+        },
+        {
+            "Name": "Container: 10th Anniversary Jumbo Edition!",
+            "BGG Rank": 879,
+            "Rating Average": "7,72"
+        },
+        {
+            "Name": "Byzanz",
+            "BGG Rank": 2580,
+            "Rating Average": "6,62"
+        },
+        {
+            "Name": "Tribes: Dawn of Humanity",
+            "BGG Rank": 3268,
+            "Rating Average": "6,91"
+        },
+        {
+            "Name": "Smile",
+            "BGG Rank": 3451,
+            "Rating Average": "6,65"
+        }
+    ],
+    "cluster_34": [
+        {
+            "Name": "Twilight Struggle",
+            "BGG Rank": 10,
+            "Rating Average": "8,29"
+        },
+        {
+            "Name": "7 Wonders Duel",
+            "BGG Rank": 17,
+            "Rating Average": "8,11"
+        },
+        {
+            "Name": "Anachrony",
+            "BGG Rank": 46,
+            "Rating Average": "8,10"
+        },
+        {
+            "Name": "Watergate",
+            "BGG Rank": 171,
+            "Rating Average": "8,00"
+        },
+        {
+            "Name": "Labyrinth: The War on Terror, 2001 - ?",
+            "BGG Rank": 385,
+            "Rating Average": "7,59"
+        },
+        {
+            "Name": "Churchill",
+            "BGG Rank": 600,
+            "Rating Average": "7,67"
+        },
+        {
+            "Name": "13 Days: The Cuban Missile Crisis",
+            "BGG Rank": 629,
+            "Rating Average": "7,31"
+        },
+        {
+            "Name": "Blitzkrieg!: World War Two in 20 Minutes",
+            "BGG Rank": 835,
+            "Rating Average": "7,71"
+        },
+        {
+            "Name": "Sun Tzu",
+            "BGG Rank": 1224,
+            "Rating Average": "7,06"
+        },
+        {
+            "Name": "Dual Powers: Revolution 1917",
+            "BGG Rank": 2133,
+            "Rating Average": "7,62"
+        }
+    ],
+    "cluster_35": [
+        {
+            "Name": "Gloomhaven",
+            "BGG Rank": 1,
+            "Rating Average": "8,79"
+        },
+        {
+            "Name": "Gloomhaven: Jaws of the Lion",
+            "BGG Rank": 6,
+            "Rating Average": "8,87"
+        },
+        {
+            "Name": "The Crew: The Quest for Planet Nine",
+            "BGG Rank": 41,
+            "Rating Average": "8,02"
+        },
+        {
+            "Name": "Codenames",
+            "BGG Rank": 93,
+            "Rating Average": "7,62"
+        },
+        {
+            "Name": "Decrypto",
+            "BGG Rank": 102,
+            "Rating Average": "7,79"
+        },
+        {
+            "Name": "Codenames: Duet",
+            "BGG Rank": 161,
+            "Rating Average": "7,57"
+        },
+        {
+            "Name": "Just One",
+            "BGG Rank": 163,
+            "Rating Average": "7,60"
+        },
+        {
+            "Name": "Mysterium",
+            "BGG Rank": 257,
+            "Rating Average": "7,30"
+        },
+        {
+            "Name": "Codenames: Pictures",
+            "BGG Rank": 321,
+            "Rating Average": "7,26"
+        },
+        {
+            "Name": "Hanabi",
+            "BGG Rank": 393,
+            "Rating Average": "7,08"
+        }
+    ],
+    "cluster_36": [
+        {
+            "Name": "Dixit: Journey",
+            "BGG Rank": 516,
+            "Rating Average": "7,42"
+        },
+        {
+            "Name": "Two Rooms and a Boom",
+            "BGG Rank": 904,
+            "Rating Average": "7,01"
+        },
+        {
+            "Name": "Imagine",
+            "BGG Rank": 1222,
+            "Rating Average": "6,93"
+        },
+        {
+            "Name": "Spyfall 2",
+            "BGG Rank": 1279,
+            "Rating Average": "6,99"
+        },
+        {
+            "Name": "Snake Oil",
+            "BGG Rank": 1622,
+            "Rating Average": "6,69"
+        },
+        {
+            "Name": "Funemployed",
+            "BGG Rank": 2009,
+            "Rating Average": "6,77"
+        },
+        {
+            "Name": "Don't Get Got!",
+            "BGG Rank": 2783,
+            "Rating Average": "7,18"
+        },
+        {
+            "Name": "Monikers: The Shut Up & Sit Down Nonsense Box",
+            "BGG Rank": 2801,
+            "Rating Average": "8,10"
+        },
+        {
+            "Name": "Ugg-Tect",
+            "BGG Rank": 2802,
+            "Rating Average": "6,30"
+        },
+        {
+            "Name": "Monikers: Shmonikers",
+            "BGG Rank": 3030,
+            "Rating Average": "8,04"
+        }
+    ],
+    "cluster_37": [
+        {
+            "Name": "Eclipse: Second Dawn for the Galaxy",
+            "BGG Rank": 137,
+            "Rating Average": "8,80"
+        },
+        {
+            "Name": "Diner",
+            "BGG Rank": 6630,
+            "Rating Average": "6,10"
+        },
+        {
+            "Name": "Rayguns and Rocketships",
+            "BGG Rank": 9078,
+            "Rating Average": "6,78"
+        },
+        {
+            "Name": "Camelot",
+            "BGG Rank": 18705,
+            "Rating Average": "5,29"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Board Game Group Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Board Game Group Analyzer</h1>
+            <p>Select a game to discover which group it belongs to and find similar, highly-rated titles.</p>
+        </header>
+
+        <form method="POST">
+            <label for="game-input">Type and select a game name:</label>
+            <input list="game-list" id="game-input" name="game_name" placeholder="e.g., Catan" required autocomplete="off">
+            <datalist id="game-list">
+                {% for game in game_names %}
+                    <option value="{{ game }}">
+                {% endfor %}
+            </datalist>
+
+            <fieldset class="desc-type-chooser">
+                <legend>Choose description length:</legend>
+                <div>
+                    <input type="radio" id="desc-long" name="desc_type" value="long" {% if description_type == 'long' or not description_type %}checked{% endif %}>
+                    <label for="desc-long">Long</label>
+                </div>
+                <div>
+                    <input type="radio" id="desc-short" name="desc_type" value="short" {% if description_type == 'short' %}checked{% endif %}>
+                    <label for="desc-short">Short</label>
+                </div>
+            </fieldset>
+
+            <button type="submit">Analyze</button>
+        </form>
+
+        {% if error %}
+            <div class="results error">
+                <p>{{ error }}</p>
+            </div>
+        {% endif %}
+
+        {% if selected_game and description %}
+            <div class="results">
+                <h2>Results for: <span>{{ selected_game }}</span></h2>
+
+                <div class="description-card">
+                    <h3>Group Characteristics</h3>
+                    <p>{{ description }}</p>
+                </div>
+
+                {% if top_games %}
+                    <div class="top-games-card">
+                        <h3>Top 10 Games in this Group (by BGG Rank)</h3>
+                        <ol>
+                            {% for game in top_games %}
+                                <li>
+                                    <strong>#{{ game['BGG Rank'] }} - {{ game['Name'] }}</strong>
+                                    (Rating: {{ game['Rating Average'] }})
+                                </li>
+                            {% endfor %}
+                        </ol>
+                    </div>
+                {% endif %}
+
+                {% if similar_games %}
+                    <div class="similar-games-card">
+                        <h3>5 Most Similar Games</h3>
+                        <ul>
+                            {% for game in similar_games %}
+                                <li>{{ game }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

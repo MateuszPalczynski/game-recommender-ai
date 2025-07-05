@@ -1,0 +1,162 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+form label {
+    font-weight: 700;
+    color: #34495e;
+}
+
+form input {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+form button {
+    padding: 12px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #2980b9;
+}
+
+.results {
+    margin-top: 40px;
+}
+
+.results h2 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+.results h2 span {
+    color: #3498db;
+}
+
+.description-card, .top-games-card {
+    background-color: #fdfdfd;
+    border: 1px solid #e7e7e7;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.results h3 {
+    margin-top: 0;
+    color: #34495e;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.top-games-card ol {
+    padding-left: 20px;
+}
+
+.top-games-card li {
+    padding: 5px 0;
+    line-height: 1.6;
+}
+
+.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.similar-games-card {
+    background-color: #eafaf1;
+    border: 1px solid #c8e6c9;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.similar-games-card h3 {
+    color: #2e7d32;
+}
+
+.similar-games-card ul {
+    list-style-type: '→ ';
+    padding-left: 20px;
+}
+
+.similar-games-card li {
+    padding: 5px 0;
+    line-height: 1.6;
+}
+
+.desc-type-chooser {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.desc-type-chooser legend {
+    font-weight: 700;
+    color: #34495e;
+    padding: 0 10px;
+    margin-left: 10px;
+}
+
+.desc-type-chooser div {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.desc-type-chooser input[type="radio"] {
+    accent-color: #3498db;
+}
