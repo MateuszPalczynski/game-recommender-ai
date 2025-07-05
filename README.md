@@ -37,6 +37,6 @@ To complement the high-level group analysis from GMM, a k-NN model was implement
 ## Tech Stack
 
 - **Backend**: Python, Flask
-- **Machine Learning**: Scikit-learn, Pandas, NumPy
+- **Machine Learning**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **Model Persistence**: Joblib
 - **Frontend**: HTML, CSS
