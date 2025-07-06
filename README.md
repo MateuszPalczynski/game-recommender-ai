@@ -5,6 +5,9 @@
 This project provides a comprehensive analysis of board games, leveraging machine learning to automatically group them into distinct clusters and generate human-readable descriptions for each group. The core of the project is an unsupervised clustering pipeline using **Gaussian Mixture Models (GMM)**, followed by a unique method for automated group characterization using **Decision Trees**.
 
 The main goal was to create a robust clustering system and then use a "white-box" machine learning model to automatically generate descriptions based on the labels provided by the clustering algorithm. The project culminates in a user-friendly web application built with **Flask**, which allows users to explore these game groups, get recommendations for similar games using a **k-Nearest Neighbors (k-NN)** model, and view top-ranked games within each category.
+![image](https://github.com/user-attachments/assets/6ad68a42-5a3c-4db1-a1c9-5997aa226a20)
+![image](https://github.com/user-attachments/assets/e8c0be7c-085b-4b7d-b0a1-c384aecb13ab)
+
 
 ## Key Features
 
