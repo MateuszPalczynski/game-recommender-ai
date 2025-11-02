@@ -2,36 +2,44 @@ import json
 from flask import Flask, render_template, request
 from joblib import load
 import pandas as pd
+import os
 
-app = Flask(__name__)
+application = Flask(__name__)
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODELS_DIR = os.path.join(BASE_DIR, 'models')
+DATA_DIR = os.path.join(BASE_DIR, 'data')
 
 # --- Data and Model Loading ---
 def load_all_data():
     """Loads all necessary data files and models from their respective folders."""
     try:
         # Load models from the /models directory
-        nn_model = load('models/nearest_neighbors_model.joblib')
-        game_names_list = load('models/game_names_list.joblib')
+        nn_model = load(os.path.join(MODELS_DIR, 'nearest_neighbors_model.joblib'))
+        game_names_list = load(os.path.join(MODELS_DIR, 'game_names_list.joblib'))
 
         # Load data from the /data directory
-        with open('data/game_to_cluster_map.json', 'r') as f:
+        with open(os.path.join(DATA_DIR, 'game_to_cluster_map.json'), 'r') as f:
             game_to_cluster = json.load(f)
-        with open('data/cluster_descriptions.json', 'r') as f:
+        with open(os.path.join(DATA_DIR, 'cluster_descriptions.json'), 'r') as f:
             long_descriptions = json.load(f)
-        with open('data/cluster_short_descriptions.json', 'r') as f:
+        with open(os.path.join(DATA_DIR, 'cluster_short_descriptions.json'), 'r') as f:
             short_descriptions = json.load(f)
         # Load the new file with games sorted by rank
-        with open('data/top_10_games_by_rank_per_cluster.json', 'r') as f:
+        with open(os.path.join(DATA_DIR, 'top_10_games_by_rank_per_cluster.json'), 'r') as f:
             top_10_games_by_rank = json.load(f)
 
         # Load the pre-scaled data for the NN model
-        df_scaled = pd.read_csv('data/X_scaled_data.csv')
+        df_scaled = pd.read_csv(os.path.join(DATA_DIR, 'X_scaled_data.csv'))
 
         return nn_model, game_to_cluster, long_descriptions, short_descriptions, top_10_games_by_rank, game_names_list, df_scaled
     except FileNotFoundError as e:
-        print(f"Critical Error: Data or model file not found: {e.filename}")
-        print("Please ensure all files are in their correct /data and /models directories.")
+        # Logowanie błędów jest lepsze niż print w produkcji
+        application.logger.error(f"Critical Error: Data or model file not found: {e.filename}")
+        application.logger.error("Please ensure all files are in their correct /data and /models directories.")
+        return None, None, None, None, None, None, None
+    except Exception as e:
+        application.logger.error(f"An unexpected error occurred during data loading: {e}")
         return None, None, None, None, None, None, None
 
 
@@ -48,7 +56,7 @@ else:
     X_scaled_vectors = None
 
 
-@app.route('/', methods=['GET', 'POST'])
+@application.route('/', methods=['GET', 'POST'])
 def index():
     selected_game = None
     description = None
@@ -81,7 +89,7 @@ def index():
                 similar_games_list = [game_names_list[i] for i in similar_indices]
             except (ValueError, IndexError):
                 similar_games_list = []
-                print(f"Warning: Game '{selected_game}' found in cluster map but could not be found for NN lookup.")
+                application.logger.warning(f"Warning: Game '{selected_game}' found in cluster map but could not be found for NN lookup.")
 
         elif selected_game:
             error = f"Game '{selected_game}' was not found in our database. Please try selecting a game from the list."
@@ -96,10 +104,3 @@ def index():
         error=error,
         description_type=description_type
     )
-
-
-if __name__ == '__main__':
-    if nn_model is None or df_scaled is None:
-        print("Application cannot start due to missing models or data files.")
-    else:
-        app.run(debug=True)
