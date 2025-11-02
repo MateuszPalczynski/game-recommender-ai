@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/6ad68a42-5a3c-4db1-a1c9-5997aa226a20)
 
+## Live Application
+This application is deployed on AWS Elastic Beanstalk and is publicly accessible: http://game-recommender-env.eba-wvqphcaw.us-east-1.elasticbeanstalk.com/
+
 ## Summary
 
 This project provides a comprehensive analysis of board games, leveraging machine learning to automatically group them into distinct clusters and generate human-readable descriptions for each group. The core of the project is an unsupervised clustering pipeline using **Gaussian Mixture Models (GMM)**, followed by a unique method for automated group characterization using **Decision Trees**.
@@ -44,3 +47,9 @@ To complement the high-level group analysis from GMM, a k-NN model was implement
 - **Machine Learning**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **Model Persistence**: Joblib
 - **Frontend**: HTML, CSS
+
+## Deployment
+This application is deployed and hosted on AWS Elastic Beanstalk (EB), a Platform as a Service (PaaS) that automates infrastructure provisioning, application deployment, and health monitoring.
+- Platform: The environment runs on a 64-bit Amazon Linux 2023 platform with Python
+- Instance: It utilizes a t3.micro instance, operating within the AWS Free Tier.
+- Configuration: Custom .ebextensions are used to install necessary system-level dependencies (such as gcc-c++ and python3-devel) prior to the pip install process. This is critical for the successful compilation of complex libraries like pandas and scikit-learn on the server.
